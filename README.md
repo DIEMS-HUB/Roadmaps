@@ -5,10 +5,10 @@
 This repository contains the list of communities you can join, contribute and resources to getting started. You are also welcome to add any known community or resource listings here.
 
 
-- Android Development
-- Backend Development
-- Devops 
-- Open source tech
+- [Android Development](https://github.com/DIEMS-HUB/Roadmaps/tree/main/Android_Development)
+- [Backend Development](https://github.com/DIEMS-HUB/Roadmaps/tree/main/Backend_Development)
+- [Devops](https://github.com/DIEMS-HUB/Roadmaps/tree/main/DevOps) 
+- [Open source tech](https://github.com/DIEMS-HUB/Roadmaps/tree/main/Open-Source_Tech)
 
 Add your own !
 
