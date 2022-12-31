@@ -7,10 +7,9 @@
 - [awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles) 
 - [algebra-for-you](https://github.com/razaahmad333/algebra-for-you)
 - [BeeWare](https://github.com/beeware/)
-- [Blender](https://developer.blender.org/diffusion/B/browse/
+- [Blender](https://developer.blender.org/diffusion/B/browse/)
 - [Classical Language Toolkit](https://github.com/cltk/cltk)
-- [Computational Biology @ University of Nebraska-Lincoln](https://summerofcode.withgoogle.com/archive/2018/organizations/6010802972655616)
-- [Create Tailwind](https://github.com/AndrejJurkin/create-tw)gy)
+- [Create Tailwind](https://github.com/AndrejJurkin/create-tw)
 - [Gefyra](https://github.com/gefyrahq/gefyra/)
 - [Getdeck](https://github.com/Getdeck/getdeck/)
 - [GFOSS - Open Technology Alliance](https://summerofcode.withgoogle.com/archive/2021/organizations/5185060013080576)
