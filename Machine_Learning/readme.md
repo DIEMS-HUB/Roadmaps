@@ -16,3 +16,7 @@
 - [Deep Learning Coursera](https://www.coursera.org/specializations/deep-learning?)
 
 ## Advance Machine learning
+
+## Model Deployment and MLops
+
+-[Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
