@@ -10,7 +10,7 @@
 
 ## Machine Learning
 
-- [Machine Learning for Everyone In simple words](https://vas3k.com/blog/machine_learning/)
+- [Machine Learning Overview](https://vas3k.com/blog/machine_learning/)
 - [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
 - [Machine Learning Coursera](https://www.coursera.org/specializations/machine-learning-introduction)
 - [Deep Learning Coursera](https://www.coursera.org/specializations/deep-learning?)
