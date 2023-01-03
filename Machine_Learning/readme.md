@@ -21,14 +21,14 @@
 
 ## Advance Machine learning
 
-## Machine Learning System Desgin
+## Machine Learning System Design
 
 - [ML System Design Template For MLE Interviews](https://www.mle-interviews.com/ml-design-template)
 - [Architecting a Machine Learning Pipeline](https://towardsdatascience.com/architecting-a-machine-learning-pipeline-a847f094d1c7)
 - [Machine Learning System Design Draft PDF](https://huyenchip.com/machine-learning-systems-design/toc.html)
 - [Machine Learning System Design Blog](https://becominghuman.ai/machine-learning-system-design-f2f4018f2f8)
 
-## Model Deployment and MLops
+## Model Deployment and MLops (optional)
 - [Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
 
 
