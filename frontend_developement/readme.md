@@ -72,6 +72,9 @@ In this section you will learn how to use package managers and get started with 
 
 - [NPM Crash Course](https://www.youtube.com/watch?v=jHDhaSSKmB0)
 
+### A FRONTEND MASTER BOOK BEGINNER TO ADVANCED
+[LINK](https://frontendmasters.com/guides/front-end-handbook/2019/)
+
 
 
 
