@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 
 Note: <b>Kindly have a overview of Prerequisite</b>   
@@ -27,11 +27,10 @@ Note: <b>Kindly have a overview of Prerequisite</b>
 3. <a href ="https://www.youtube.com/watch?v=t7DrJqcUviA"> Academind</a>
 
 
-=======
-## Django is a free and open-source, Python-based web framework that follows the model–template–views (MTV) architectural pattern.
+
 
 - [Get started with Django](https://www.djangoproject.com/start/)
 - [Django Documentation](https://docs.djangoproject.com/en/4.1/)
 - [Download Django](https://www.djangoproject.com/download/)
 - [Django GitHub](https://github.com/django/django)
->>>>>>> c2530167f9309358aee2131ee3cf8dc4057cb4ad
+
