@@ -14,8 +14,7 @@ References--
 
 - [code editor  -  vs code]("https://code.visualstudio.com/download")
 
-- [Browser - google chrome]("https://www.google.com/chrome/? brand=YTUH&gclid=Cj0KCQiAnsqdBhCGARIsAAyjYjQFIlMpFX24FibiYPW6UMEQjqucbNAttJPMruu1DFjM6kXdDmugf4kaAm2oEALw_wcB&gclsrc=aw.ds")
-
+- [Browser - google chrome]("https://www.google.com/chrome/")
 - [Git Handbook - Github guides &nbsp; :page_facing_up: ](https://guides.github.com/introduction/git-handbook/)
 
 ##content and learning resources
