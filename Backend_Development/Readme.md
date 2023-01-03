@@ -8,7 +8,6 @@ Follow the folder of that particular framework in ./
 =======
 1. [Django           (Python)](https://github.com/DIEMS-HUB/Roadmaps/tree/main/Backend_Development/Django)
 2. ExpressJs        (Js,Nodejs)
->>>>>>> c2530167f9309358aee2131ee3cf8dc4057cb4ad
 3. Laravel          (PHP)
 4. Ruby on Rails    (Ruby)
 5. Spring boot      (Java)
