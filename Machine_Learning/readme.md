@@ -24,8 +24,7 @@
 - [Machine Learning System Design Draft PDF](https://huyenchip.com/machine-learning-systems-design/toc.html)
 - [Machine Learning System Design Blog](https://becominghuman.ai/machine-learning-system-design-f2f4018f2f8)
 
-## Model Deployment and MLops(optional)
-
+## Model Deployment and MLops
 - [Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
 
 
