@@ -10,15 +10,15 @@
 
 ---
 
-###BASIC TOOLS :
+### BASIC TOOLS :
 
 - [code editor vs code]("https://code.visualstudio.com/download")
 - [Browser google chrome]("https://www.google.com/chrome/")
 - [Git Handbook -Github guides &nbsp; :page_facing_up: ](https://guides.github.com/introduction/git-handbook/)
 
-###content and learning resources:
+### content and learning resources:
 
-#HTML:
+# HTML:
 
 HTML stands for Hypertext Markup Language. It is the markup language for building web pages, it is also the building block of the web. HTML is easy to learn and comprehend. With just HTML, you can build a basic website.
 
@@ -27,7 +27,7 @@ HTML stands for Hypertext Markup Language. It is the markup language for buildin
 - [HTML Full Course - Freecodecamp](https://youtu.be/pQN-pnXPaVg)
 ---
 
-#CSS:
+# CSS:
 
 CSS stands for Cascading Style Sheets. It is the technology to learn after HTML. It is used for styling our HTML. For example, we can use CSS to space our content, colours, fonts, etc.
 
@@ -35,7 +35,7 @@ CSS stands for Cascading Style Sheets. It is the technology to learn after HTML.
 - [Web.dev - Learn CSS](https://web.dev/learn/css/) ```recommended```
 - [Web.dev - Learn Responsive Design](https://web.dev/learn/design/) ```recommended```
 
-#CSS Frameworks:
+# CSS Frameworks:
 
 **UI + Utility Toolkits**
 - [Bootstrap ](https://getbootstrap.com/)
@@ -44,7 +44,7 @@ CSS stands for Cascading Style Sheets. It is the technology to learn after HTML.
 - [Tailwind CSS 📖](https://tailwindcss.com/)
 ---
 
-#JAVASCRIPT:
+# JAVASCRIPT:
 
 JavaScript is one of the most popular programming languages in the world. It is the language of the web. As a front-end developer, it is required you learn JavaScript. JavaScript enables us to create dynamic content. When you create your HTML structure and your style with your CSS, JavaScript makes the website dynamic and alive.
 
