@@ -1,4 +1,4 @@
-References--
+
 <div align="center">
   <img src="img/frontend.svg" alt="Front-End Development" />
   <p><strong>Roadmap to becoming a Front-End Developer in 2023.</strong></p>
@@ -10,14 +10,13 @@ References--
 
 ---
 
-##BASIC TOOLS 
+###BASIC TOOLS 
 
-- [code editor  -  vs code]("https://code.visualstudio.com/download")
+- [code editor vs code]("https://code.visualstudio.com/download")
+- [Browser google chrome]("https://www.google.com/chrome/")
+- [Git Handbook -Github guides &nbsp; :page_facing_up: ](https://guides.github.com/introduction/git-handbook/)
 
-- [Browser - google chrome]("https://www.google.com/chrome/")
-- [Git Handbook - Github guides &nbsp; :page_facing_up: ](https://guides.github.com/introduction/git-handbook/)
-
-##content and learning resources
+###content and learning resources
 
 #HTML:
 
