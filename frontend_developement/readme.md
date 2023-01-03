@@ -10,13 +10,13 @@
 
 ---
 
-###BASIC TOOLS 
+###BASIC TOOLS :
 
 - [code editor vs code]("https://code.visualstudio.com/download")
 - [Browser google chrome]("https://www.google.com/chrome/")
 - [Git Handbook -Github guides &nbsp; :page_facing_up: ](https://guides.github.com/introduction/git-handbook/)
 
-###content and learning resources
+###content and learning resources:
 
 #HTML:
 
