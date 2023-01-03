@@ -2,10 +2,9 @@
 ## Backend framework
 Follow the folder of that particular framework in ./ 
 
-<<<<<<< HEAD
+
 1. Django           (Python)
 2. Nodejs           (Js,Expressjs)
-=======
 1. [Django           (Python)](https://github.com/DIEMS-HUB/Roadmaps/tree/main/Backend_Development/Django)
 2. ExpressJs        (Js,Nodejs)
 3. Laravel          (PHP)
@@ -13,7 +12,7 @@ Follow the folder of that particular framework in ./
 5. Spring boot      (Java)
 
 
-##Prerequisite for Backend
+## Prerequisite for Backend
 
 - Basic idea about below topic is more than sufficient 
 - If you things below topics are hard you can ship the bold once 
