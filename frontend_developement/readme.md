@@ -1,18 +1,16 @@
 
 <div align="center">
-  <img src="img/frontend.svg" alt="Front-End Development" />
-  <p><strong>Roadmap to becoming a Front-End Developer in 2023.</strong></p>
+ Roadmap to becoming a Front-End Developer in 2023.
 </div>
 
 ---
 
 <h1 align="center">:dart: Roadmap to boost your career</h1>
 
----
 
 ### BASIC TOOLS :
 
-- [code editor vs code]("https://code.visualstudio.com/download")
+- code editor:[ vs code]("https://code.visualstudio.com/")
 - [Browser google chrome]("https://www.google.com/chrome/")
 - [Git Handbook -Github guides &nbsp; :page_facing_up: ](https://guides.github.com/introduction/git-handbook/)
 
@@ -72,8 +70,7 @@ In this section you will learn how to use package managers and get started with 
 
 - [NPM Crash Course](https://www.youtube.com/watch?v=jHDhaSSKmB0)
 
-### A FRONTEND MASTER BOOK BEGINNER TO ADVANCED
-[LINK](https://frontendmasters.com/guides/front-end-handbook/2019/)
+#### Checkout[ A FRONTEND MASTER BOOK BEGINNER TO ADVANCED](https://frontendmasters.com/guides/front-end-handbook/2019/)
 
 
 
