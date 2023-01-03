@@ -14,6 +14,10 @@
 - [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
 - [Machine Learning Coursera](https://www.coursera.org/specializations/machine-learning-introduction)
 - [Deep Learning Coursera](https://www.coursera.org/specializations/deep-learning?)
+# Once you are finished with the above resources, you probably need questions to practice. Here is a collection of question and answer docs:
+- [https://github.com/andrewekhalel/MLQuestions](https://github.com/andrewekhalel/MLQuestions)
+- [https://github.com/IndyNYU/Machine-Learning-Interview/blob/master/Algorithms %26 Theory](https://github.com/IndyNYU/Machine-Learning-Interview/blob/master/Algorithms%20%26%20Theory)
+- [https://www.mle-interviews.com/ml-questions](https://www.mle-interviews.com/ml-questions)
 
 ## Advance Machine learning
 
