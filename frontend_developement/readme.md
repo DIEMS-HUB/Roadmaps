@@ -1,4 +1,10 @@
 References--
+<div align="center">
+  <img src="img/frontend.svg" alt="Front-End Development" />
+  <p><strong>Roadmap to becoming a Front-End Developer in 2023.</strong></p>
+</div>
+
+---
 
 HTML5
 [Basic HTML and HTML5 from Free Code Camp](https://www.freecodecamp.org/)
