@@ -51,8 +51,7 @@ JavaScript is one of the most popular programming languages in the world. It is 
 - [JavaScript Fundamentals](https://frontendmasters.com/guides/learning-roadmap/javascript-fundamentals/)
 - [DOM Manipulation & BOM](https://frontendmasters.com/guides/learning-roadmap/dom-bom-cssom/)
 
- AJAX, Fetch API and JSON
- 
+ AJAX, Fetch API and JSON 
 - [ES6+ & Modular JS](https://frontendmasters.com/guides/learning-roadmap/javascript-modules-scripts/)
 - [Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)
 - [Object-oriented Programming (OOP)](https://frontendmasters.com/guides/learning-roadmap/js-oop/)
@@ -62,8 +61,8 @@ JavaScript is one of the most popular programming languages in the world. It is 
 
 # javascript library:
 
-- [REACT.JS]("https://reactjs.org/")
-- [REACT.JS tutorial]("https://www.youtube.com/watch?v=w7ejDZ8SWv8")
+- [REACT.JS](https://reactjs.org/)
+- [REACT.JS tutorial](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
 
 # Modern JavaScript:
 In this section you will learn how to use package managers and get started with the "modern JavaScript".
