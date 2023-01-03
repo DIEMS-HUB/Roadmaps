@@ -1,18 +1,23 @@
 
-Kindly select a Backend framework from below
+## Backend framework
 Follow the folder of that particular framework in ./ 
 
+<<<<<<< HEAD
+1. Django           (Python)
+2. Nodejs           (Js,Expressjs)
+=======
 1. [Django           (Python)](https://github.com/DIEMS-HUB/Roadmaps/tree/main/Backend_Development/Django)
 2. ExpressJs        (Js,Nodejs)
+>>>>>>> c2530167f9309358aee2131ee3cf8dc4057cb4ad
 3. Laravel          (PHP)
 4. Ruby on Rails    (Ruby)
 5. Spring boot      (Java)
 
 
-Prerequisite for Backend
+##Prerequisite for Backend
 
--> Basic idea about below is more than sufficient 
--> If you things below topics are hard you can ship the bold once 
+- Basic idea about below topic is more than sufficient 
+- If you things below topics are hard you can ship the bold once 
 
 1. <a href="#">HTTP</a> 
 2. <a href="#">RESTful</a>
