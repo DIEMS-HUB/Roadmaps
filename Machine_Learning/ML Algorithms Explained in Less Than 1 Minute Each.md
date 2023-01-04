@@ -1,4 +1,4 @@
-
+# Machine Learning Algorithms Explained in Less Than 1 Minute Each
 ## Linear Regression
  
 
@@ -16,7 +16,6 @@ Logistic Regression, similar to Linear Regression, is used to make predictions o
 For example, you can use Logistic Regression to determine whether a student will be admitted or not to a particular college depending on their grades - either Yes or No, or 0 or 1. 
 
  
-
 ## Decision Trees
  
 
@@ -69,7 +68,6 @@ K-means clustering, similar to nearest neighbors but uses the method of clusteri
 
 For example, if there are 3 clusters present and a new data point is inputted, depending on which cluster it falls in - that is the cluster they belong to. 
 
-# Machine Learning Algorithms Explained in Less Than 1 Minute Each 
 
 ## Bagging
  
