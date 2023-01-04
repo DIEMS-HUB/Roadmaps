@@ -3,9 +3,9 @@
   <p><strong>Roadmap to becoming a node.js Developer in 2023.</strong></p>
 </div>
 ---
-##Resources
+## Resources
 
-#Prerequisites
+# Prerequisites
 
 1. [Javascript](https://frontendmasters.com/guides/learning-roadmap/javascript-fundamentals/)
 2. [Npm](https://nodejs.dev/en/learn/an-introduction-to-the-npm-package-manager/)
