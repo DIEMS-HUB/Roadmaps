@@ -102,7 +102,4 @@ The Principal Component Analysis (PCA) technique is a type of Dimensionality Red
 
  
 
-- ## Conclusion
- 
 
-The aim of this article was to help you understand Machine Learning algorithms in the most simplest terms.
