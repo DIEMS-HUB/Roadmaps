@@ -13,3 +13,12 @@
 3. [node.js](https://www.youtube.com/watch?v=nSFe1-kpfbQ)
 4. [ECMA script](https://www.youtube.com/watch?v=_GMEqhUyyFM)
 
+## Web Framework
+
+- [Express.js](https://expressjs.com/)
+
+## Database
+
+- [RELATIONAL(mysql)](https://www.javatpoint.com/mysql-tutorial)
+- [NOSQL(mongodb)](https://www.tutorialspoint.com/mongodb/index.html)
+
