@@ -89,12 +89,12 @@ The best way to learn about these libraries is through their User Guides and Doc
 So you’ve mastered the fundamentals, machine learning algorithms, and libraries - the next step is to take all that knowledge and skill and apply it to real-world cases. This not only tests your skills and presents you with your strengths and weaknesses in the field. But it also helps you add to your portfolio - which will help you in the next stage!
 
 Here is a list of Machine Learning projects for beginners:
-- Online Payments Fraud Detection
-- Stock Price Prediction
-- Covid-19 Deaths Prediction
-- Ukraine vs Russia Twitter Sentiment Analysis
-- Bitcoin Price Predictor Dataset
-- Speech Emotion Recognition Dataset
+- [Online Payments Fraud Detection](https://thecleverprogrammer.com/2022/02/22/online-payments-fraud-detection-with-machine-learning/)
+- [Stock Price Prediction](https://thecleverprogrammer.com/2020/11/14/stock-price-prediction-using-machine-learning/)
+- [Covid-19 Deaths Prediction](https://thecleverprogrammer.com/2022/03/29/covid-19-deaths-prediction-with-machine-learning/)
+- [Ukraine vs Russia Twitter Sentiment Analysis](https://thecleverprogrammer.com/2022/03/15/ukraine-russia-war-twitter-sentiment-analysis-using-python/)
+- [Bitcoin Price Predictor Dataset](https://www.kaggle.com/datasets/team-ai/bitcoin-price-prediction/versions/1)
+- [Speech Emotion Recognition Dataset](https://drive.google.com/file/d/1wWsrN2Ep7x6lWqOXfr4rpKGYrJhWc8z7/view)
 
 
 
