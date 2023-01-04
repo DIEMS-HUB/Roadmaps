@@ -1,6 +1,9 @@
 # Complete Roadmap to Master ML
 
 
+![2020 machine learning roadmap overview](https://raw.githubusercontent.com/mrdbourke/machine-learning-roadmap/master/2020-ml-roadmap-overview.png?token=AD7ZOCOIG7IZXHDL63W6RZK7A3B6I)
+
+See the [full interactive version](https://whimsical.com/machine-learning-roadmap-2020-CA7f3ykvXpnJ9Az32vYXva).
 
 ## Prerequisites:
 
