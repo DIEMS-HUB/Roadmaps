@@ -4,9 +4,9 @@
 </div>
 
 
-## Resources
+# Resources
 
-# Prerequisites
+## Prerequisites
 
 1. [Javascript](https://frontendmasters.com/guides/learning-roadmap/javascript-fundamentals/)
 2. [Npm](https://nodejs.dev/en/learn/an-introduction-to-the-npm-package-manager/)
