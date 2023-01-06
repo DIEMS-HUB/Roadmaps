@@ -14,11 +14,13 @@
 
 - Monolithic Architecture (Everything tightly coupled)
 
-img1
+![img 1](https://user-images.githubusercontent.com/72307121/210928135-8bedd984-2132-4f01-a2b5-fa3b7709c7e9.png)
+
 
 - Microservice Architecture (Everything is lossely coupled)
 
-img2
+![img 2](https://user-images.githubusercontent.com/72307121/210928175-cb463680-a84c-4593-b46a-6d10e790995b.png)
+
 
 * Benefits of using an microservice architecture is we can update one component without disturbing other components 
 * Example : I want to update the UI of my User profile. So I will only work with User profile not with other components. 
