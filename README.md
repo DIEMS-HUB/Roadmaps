@@ -6,8 +6,9 @@ This repository contains the list of communities you can join, contribute and re
 
 
 - [Android Development](https://github.com/DIEMS-HUB/Roadmaps/tree/main/Android_Development)
-- [Front-End Development](https://github.com/DIEMS-HUB/Roadmaps/tree/main/frontend_developement)
-- [Backend Development](https://github.com/DIEMS-HUB/Roadmaps/tree/main/Backend_Development)
+- [Full-Stack-Developement](https://github.com/DIEMS-HUB/Roadmaps/tree/main/FullStack-Web-Development)
+- [Front-End Developement](https://github.com/DIEMS-HUB/Roadmaps/tree/main/FullStack-Web-Development/Frontend-Development)
+- [Back-End Developement](https://github.com/DIEMS-HUB/Roadmaps/tree/main/FullStack-Web-Development/Backend_Development)
 - [Devops](https://github.com/DIEMS-HUB/Roadmaps/tree/main/DevOps) 
 - [Machine Learning](https://github.com/DIEMS-HUB/Roadmaps/tree/main/Machine_Learning) 
 - [Open source tech](https://github.com/DIEMS-HUB/Roadmaps/tree/main/Open-Source_Tech)
