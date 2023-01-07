@@ -13,7 +13,6 @@ This repository contains the list of communities you can join, contribute and re
 - [Machine Learning](https://github.com/DIEMS-HUB/Roadmaps/tree/main/Machine_Learning) 
 - [Open source tech](https://github.com/DIEMS-HUB/Roadmaps/tree/main/Open-Source_Tech)
 
-Add your own !
 
 ### Contribution 
 
