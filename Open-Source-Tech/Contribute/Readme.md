@@ -17,6 +17,7 @@
 - [GitVio](https://github.com/devXprite/GitVio/)
 - [GRR Rapid Response](https://summerofcode.withgoogle.com/archive/2021/organizations/5763186065670144)
 - [hello-open-source](https://github.com/mazipan/hello-open-source) 
+- [Joplin](https://github.com/laurent22/joplin)
 - [node-crawler](https://github.com/bda-research/node-crawler)
 - [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api)
 - [Node.js](https://github.com/nodejs)
