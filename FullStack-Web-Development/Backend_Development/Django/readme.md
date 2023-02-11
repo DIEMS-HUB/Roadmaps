@@ -26,7 +26,7 @@ Note: <b>Kindly have a overview of Prerequisite</b>
 
 3. <a href ="https://www.youtube.com/watch?v=t7DrJqcUviA"> Academind</a>
 
-
+4. <a href ="https://www.youtube.com/playlist?list=PLsyeobzWxl7r2ukVgTqIQcl-1T0C2mzau"> Telusko </a>
 
 
 - [Get started with Django](https://www.djangoproject.com/start/)
