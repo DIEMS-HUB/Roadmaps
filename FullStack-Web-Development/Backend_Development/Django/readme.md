@@ -28,7 +28,10 @@ Note: <b>Kindly have a overview of Prerequisite</b>
 
 4. <a href ="https://www.youtube.com/playlist?list=PLsyeobzWxl7r2ukVgTqIQcl-1T0C2mzau"> Telusko </a>
 
-
+<h6>Django Resources for REST API:</h6>
+  
+1. [CodingEntrepreneurs](https://youtube.com/watch?v=c708Nf0cHrs&feature=shares)
+  
 - [Get started with Django](https://www.djangoproject.com/start/)
 - [Django Documentation](https://docs.djangoproject.com/en/4.1/)
 - [Download Django](https://www.djangoproject.com/download/)
