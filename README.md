@@ -5,7 +5,7 @@
 This repository contains the list of communities you can join, contribute and resources to getting started. You are also welcome to add any known community or resource listings here.
 
 
-- [Android Development](https://github.com/DIEMS-HUB/Roadmaps/tree/main/Android_Development)
+- [Android Development](https://github.com/DIEMS-HUB/Roadmaps/tree/main/Mobile-Development/Android_Development)
 - [Full-Stack-Developement](https://github.com/DIEMS-HUB/Roadmaps/tree/main/FullStack-Web-Development)
 - [Front-End Developement](https://github.com/DIEMS-HUB/Roadmaps/tree/main/FullStack-Web-Development/Frontend-Development)
 - [Back-End Developement](https://github.com/DIEMS-HUB/Roadmaps/tree/main/FullStack-Web-Development/Backend_Development)
@@ -20,7 +20,7 @@ This repository contains the list of communities you can join, contribute and re
  
  ### Connect with us
  
- <a href="https://discord.gg/k9zdeQXc">
+ <a href="https://discord.gg/S6eY8TeF">
     <img width="30px" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" />
   </a>&ensp;
     <a href="https://t.me/+J001tA2sI4BiNmU1">
